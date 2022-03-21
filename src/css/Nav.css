@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    text-decoration: none;
+    background-color:cornflowerblue;
+    gap: 20px;
+    padding: 10px; 
+    margin-bottom: 0px;
+}
+
+.nav li {
+    color: black;
+    text-decoration-style: none; 
+    text-decoration: none;
+}

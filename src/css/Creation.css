@@ -1,0 +1,40 @@
+.inputMail{
+    margin-bottom: 20px;
+    margin-top: 30px;
+    height: 35px; 
+    width: 220px;
+border-spacing: 2px solid #1771CF;
+}
+
+.inputMdp{
+    margin-bottom: 20px;
+    height: 35px; 
+    width: 220px;
+}
+
+.inputNom{
+    /* margin-bottom: 20px; */
+    margin-top: 20px;
+    height: 35px; 
+    width: 220px;
+border-spacing: 2px solid #1771CF;
+}
+
+.inputPrenom{
+    /* margin-bottom: 20px; */
+    margin-top: 20px;
+    height: 35px; 
+    width: 220px;
+border-spacing: 2px solid #1771CF;
+}
+
+
+.butConnexion{
+    width: 220px;
+    height: 35px;
+color:white;
+background-color: #1771CF;
+border-bottom: 2px solid #1771CF;
+text-align: center;
+border-radius: 5px;
+}

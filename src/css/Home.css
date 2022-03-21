@@ -1,0 +1,22 @@
+.imgFond {
+
+background-image: url("IMG_0527.JPG");
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+    border-top:royalblue 7px solid; 
+
+
+
+     /* height: 200px;
+    width: fit-content; 
+    vertical-align: middle;
+    object-fit: cover; */
+    /* clip-path: ellipse(38% 50%); */
+
+}
+
+
+.imgFond h1{
+color: cornsilk;
+}
